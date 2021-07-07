@@ -18,7 +18,7 @@ export const Wave1 = styled.div`
 	animation-name: 'wave';
 	z-index: 1000;
 	opacity: 1;
-	animation-duration: 10s;
+	animation-duration: 5s;
 	animation-iteration-count: infinite;
 	@keyframes wave {
 		from {
@@ -40,7 +40,7 @@ export const Wave2 = styled.div`
 	animation-name: 'wave2';
 	z-index: 999;
 	opacity: 0.5;
-	animation-duration: 10s;
+	animation-duration: 5s;
 	animation-iteration-count: infinite;
 	animation-delay: -5s;
 	@keyframes wave2 {
@@ -62,7 +62,7 @@ export const Wave3 = styled.div`
 	animation-name: 'wave3';
 	z-index: 998;
 	opacity: 0.2;
-	animation-duration: 10s;
+	animation-duration: 5s;
 	animation-iteration-count: infinite;
 	animation-delay: -2s;
 	@keyframes wave3 {
@@ -85,7 +85,7 @@ export const Wave4 = styled.div`
 	z-index: 997;
 	opacity: 0.7;
 	animation-delay: -5s;
-	animation-duration: 10s;
+	animation-duration: 5s;
 	animation-iteration-count: infinite;
 	@keyframes wave4 {
 		from {
