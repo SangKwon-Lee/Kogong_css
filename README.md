@@ -6,3 +6,6 @@
 
 인터섹션옵저버 애니메이션 <br/>
 ![intersection](https://user-images.githubusercontent.com/72852243/125017695-9eea0400-e0ae-11eb-9ab3-85a3014910d7.gif)<br/>
+
+스네이크 보더 애니메이션 <br/>
+![snake](https://user-images.githubusercontent.com/72852243/125402767-bf3bfa80-e3ef-11eb-9928-6e26dbbe235b.gif)<br/>
