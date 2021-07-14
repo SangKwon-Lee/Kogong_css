@@ -9,3 +9,7 @@
 
 스네이크 보더 애니메이션 <br/>
 ![snake](https://user-images.githubusercontent.com/72852243/125402767-bf3bfa80-e3ef-11eb-9928-6e26dbbe235b.gif)<br/>
+
+태양 효과 애니메이션 <br/>
+![sunlight](https://user-images.githubusercontent.com/72852243/125546905-e1f08ca0-8215-4ced-92eb-905c6ce94198.gif)
+<br/>
