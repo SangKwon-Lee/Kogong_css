@@ -13,3 +13,7 @@
 태양 효과 애니메이션 <br/>
 ![sunlight](https://user-images.githubusercontent.com/72852243/125546905-e1f08ca0-8215-4ced-92eb-905c6ce94198.gif)
 <br/>
+
+서치바 애니메이션 <br/>
+![search](https://user-images.githubusercontent.com/72852243/125721234-baaf8596-c5e5-45ae-8a78-8ebd0bb91680.gif)
+<br/>

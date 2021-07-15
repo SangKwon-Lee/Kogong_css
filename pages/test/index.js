@@ -1,5 +1,5 @@
 import { useRef, useState } from 'react';
-
+import { Data } from '../test2/index';
 export default function Web() {
 	const inputEl = useRef();
 	const [imgArr, setImgArr] = useState([]);
