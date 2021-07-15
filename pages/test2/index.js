@@ -1,13 +1,13 @@
-import { debounce } from 'lodash';
+import { Test } from '../../src/test2';
+
 export default function Test2() {
-  
-	const handleOnChange = debounce((e) => {
-		console.log(e.target.value);
-	}, 500);
+	const List = ['사과', '딸기', '바나나'];
 
 	return (
 		<>
-			<input onChange={handleOnChange}></input>
+			{List.map((data) => (
+				<Test>{data}</Test>
+			))}
 		</>
 	);
 }
