@@ -22,3 +22,8 @@
 ![hoverBtn](https://user-images.githubusercontent.com/72852243/125922800-6087c599-6bab-49e8-a569-d9e4dd2759a1.gif)
 
 <br/>
+
+로딩 애니메이션 <br/>
+![Loading](https://user-images.githubusercontent.com/72852243/126096696-d2386b85-5ade-4d5a-92c4-07cae4465ead.gif)
+
+<br/>
