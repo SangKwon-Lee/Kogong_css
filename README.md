@@ -32,3 +32,7 @@
 ![스크린샷 2021-07-20 오후 3 19 52](https://user-images.githubusercontent.com/72852243/126271480-1d089a09-2633-41c5-9931-71950c45d390.png)
 
 <br/>
+
+비디오 스플릿 애니메이션 <br/>
+![split](https://i.postimg.cc/tJXGdWvG/split2.gif)
+<br/>
