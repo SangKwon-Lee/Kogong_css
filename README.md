@@ -34,5 +34,11 @@
 <br/>
 
 비디오 스플릿 애니메이션 <br/>
-![split](https://i.postimg.cc/tJXGdWvG/split2.gif)
+![split](https://user-images.githubusercontent.com/72852243/126293095-c9a22cdf-9dcc-413b-bdfd-2d4544f38580.gif)
+
+<br/>
+
+메뉴 호버 애니메이션 <br/>
+![menuhover](https://user-images.githubusercontent.com/72852243/126421440-ee6c9f8d-1dc9-4a2b-a104-d2907ac94e72.gif)
+
 <br/>
