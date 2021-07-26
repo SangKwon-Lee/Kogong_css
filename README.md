@@ -42,3 +42,8 @@
 ![menuhover](https://user-images.githubusercontent.com/72852243/126421440-ee6c9f8d-1dc9-4a2b-a104-d2907ac94e72.gif)
 
 <br/>
+
+스크롤바 애니메이션 <br/>
+![scrollBar](https://user-images.githubusercontent.com/72852243/126923389-dcbca1a2-027d-4cea-ab7c-ab30674ae8d3.gif)
+
+<br/>
