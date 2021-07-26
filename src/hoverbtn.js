@@ -58,7 +58,6 @@ export const BtnBack = styled.div`
 `;
 
 export const BtnWrapper2 = styled.div`
-	position: absolute;
 	display: flex;
 	justify-content: center;
 	align-items: center;
