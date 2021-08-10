@@ -52,3 +52,8 @@
 ![chekbox](https://user-images.githubusercontent.com/72852243/128118939-bec2211f-6487-4d52-83a2-1d0a572fccf0.gif)
 
 <br/>
+
+체크박스 애니메이션2<br/>
+![check2](https://user-images.githubusercontent.com/72852243/128797405-044180f5-cd24-4f3c-9afd-6a4a052d8dca.gif)
+
+<br/>
