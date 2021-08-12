@@ -57,3 +57,8 @@
 ![check2](https://user-images.githubusercontent.com/72852243/128797405-044180f5-cd24-4f3c-9afd-6a4a052d8dca.gif)
 
 <br/>
+
+텍스트 애니메이션1<br/>
+![textLoading](https://user-images.githubusercontent.com/72852243/129127046-acee6962-533a-42ea-bcb7-99c1760d7d4a.gif)
+
+<br/>
